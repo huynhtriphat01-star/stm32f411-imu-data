@@ -1,0 +1,31 @@
+{
+  "file": "raw/shake/session_03.csv",
+  "samples": 6000,
+  "label": "shake",
+  "session": "03",
+  "duration_s": 59.99,
+  "rate_hz": 100.0,
+  "sequence_ambiguous": false,
+  "lost_frames": 0,
+  "loss_percent": 0.0,
+  "jitter_p99_us": 0.0,
+  "acceleration_norm_mean_g": 1.110876495852433,
+  "gyro_mean_dps": [
+    0.12315012722646251,
+    -0.0586463104325702,
+    -0.24526717557251979
+  ],
+  "gyro_sd_dps": [
+    49.59489662605868,
+    47.41973325788253,
+    61.812957843455266
+  ],
+  "saturated_samples": 1,
+  "crc_errors": null,
+  "subject": null,
+  "position": null,
+  "metadata_provenance": "Retrospective audit; capture-time metadata unavailable",
+  "sha256": "d4c961e85ae80f709781d3645afb53cf181ae5653827da3b795fbfeb01b17a54",
+  "timing_sequence_pass": true,
+  "idle_gravity_pass": null
+}

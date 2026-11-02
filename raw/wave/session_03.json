@@ -1,0 +1,17 @@
+{
+  "label": "wave",
+  "session": "03",
+  "subject": null,
+  "position": null,
+  "metadata_provenance": "Retrospective audit; capture-time metadata unavailable",
+  "sha256": "c78989eb5c3756f6fb057f49d06fa957762d71b32126ce8297fffd5114007dd7",
+  "sensor": "MPU6500",
+  "mcu": "STM32F411CEU6",
+  "transport": "USB CDC",
+  "nominal_sample_rate_hz": 100,
+  "accel_lsb_per_g": 8192,
+  "gyro_lsb_per_dps": 65.5,
+  "crc_errors": null,
+  "capture_note": null,
+  "independent_session_confirmed": null
+}

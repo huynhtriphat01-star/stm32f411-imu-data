@@ -1,0 +1,17 @@
+{
+  "label": "circle",
+  "session": "01",
+  "subject": null,
+  "position": null,
+  "metadata_provenance": "Retrospective audit; capture-time metadata unavailable",
+  "sha256": "7587795bcb33dedbfc519df4f9412d54ef5c5050ec6716d9a2d426123dbeb5c3",
+  "sensor": "MPU6500",
+  "mcu": "STM32F411CEU6",
+  "transport": "USB CDC",
+  "nominal_sample_rate_hz": 100,
+  "accel_lsb_per_g": 8192,
+  "gyro_lsb_per_dps": 65.5,
+  "crc_errors": null,
+  "capture_note": null,
+  "independent_session_confirmed": null
+}

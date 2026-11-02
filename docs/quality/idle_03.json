@@ -1,0 +1,31 @@
+{
+  "file": "raw/idle/session_03.csv",
+  "samples": 5999,
+  "label": "idle",
+  "session": "03",
+  "duration_s": 59.98,
+  "rate_hz": 100.0,
+  "sequence_ambiguous": false,
+  "lost_frames": 0,
+  "loss_percent": 0.0,
+  "jitter_p99_us": 0.0,
+  "acceleration_norm_mean_g": 1.0168289336401828,
+  "gyro_mean_dps": [
+    -0.7270626529357956,
+    0.9943107566273779,
+    -1.1796164500699196
+  ],
+  "gyro_sd_dps": [
+    0.8031141902791079,
+    2.3682239498506292,
+    0.5977258704113695
+  ],
+  "saturated_samples": 0,
+  "crc_errors": null,
+  "subject": null,
+  "position": null,
+  "metadata_provenance": "Retrospective audit; capture-time metadata unavailable",
+  "sha256": "d4ed50065220de5c4e98c834af48dac5690a39ce9a4b0a1bab7380967699d569",
+  "timing_sequence_pass": true,
+  "idle_gravity_pass": true
+}

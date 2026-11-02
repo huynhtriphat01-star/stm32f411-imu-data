@@ -1,0 +1,17 @@
+{
+  "label": "shake",
+  "session": "01",
+  "subject": null,
+  "position": null,
+  "metadata_provenance": "Retrospective audit; capture-time metadata unavailable",
+  "sha256": "2366cb0a8ca0c1ed17226470f21ea95cc25704b3fea8155cc6e777561bb18b7e",
+  "sensor": "MPU6500",
+  "mcu": "STM32F411CEU6",
+  "transport": "USB CDC",
+  "nominal_sample_rate_hz": 100,
+  "accel_lsb_per_g": 8192,
+  "gyro_lsb_per_dps": 65.5,
+  "crc_errors": null,
+  "capture_note": null,
+  "independent_session_confirmed": null
+}

@@ -1,0 +1,17 @@
+{
+  "label": "updown",
+  "session": "02",
+  "subject": null,
+  "position": null,
+  "metadata_provenance": "Retrospective audit; capture-time metadata unavailable",
+  "sha256": "651d82cf3410e2b0aff8b29942bff37ef4cde209dda1c4704cbd613bb1d805f2",
+  "sensor": "MPU6500",
+  "mcu": "STM32F411CEU6",
+  "transport": "USB CDC",
+  "nominal_sample_rate_hz": 100,
+  "accel_lsb_per_g": 8192,
+  "gyro_lsb_per_dps": 65.5,
+  "crc_errors": null,
+  "capture_note": null,
+  "independent_session_confirmed": null
+}

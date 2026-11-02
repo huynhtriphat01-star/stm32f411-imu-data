@@ -1,0 +1,452 @@
+[
+  {
+    "file": "raw/circle/session_01.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 6.1,
+        "fraction_power_below_20_hz": 0.9827268267402246
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 2.8,
+        "fraction_power_below_20_hz": 0.9984245729378034
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 2.8,
+        "fraction_power_below_20_hz": 0.9857965838323497
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 2.8,
+        "fraction_power_below_20_hz": 0.9945632114347681
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 3.9,
+        "fraction_power_below_20_hz": 0.9815103132246841
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 2.8,
+        "fraction_power_below_20_hz": 0.965139019066603
+      }
+    }
+  },
+  {
+    "file": "raw/circle/session_02.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 1.4166666666666667,
+        "fraction_power_below_20_hz": 0.9441599912086776
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 1.5166666666666666,
+        "fraction_power_below_20_hz": 0.9781870070336801
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 1.4333333333333333,
+        "fraction_power_below_20_hz": 0.9883212431968335
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 1.5,
+        "fraction_power_below_20_hz": 0.9935958523001623
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 1.55,
+        "fraction_power_below_20_hz": 0.9947995185318173
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 1.9833333333333334,
+        "fraction_power_below_20_hz": 0.9535598137748332
+      }
+    }
+  },
+  {
+    "file": "raw/circle/session_03.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 1.7333333333333334,
+        "fraction_power_below_20_hz": 0.9880717278576586
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 1.7333333333333334,
+        "fraction_power_below_20_hz": 0.9985732987207739
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 1.7333333333333334,
+        "fraction_power_below_20_hz": 0.99888197914432
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 1.7166666666666666,
+        "fraction_power_below_20_hz": 0.9982059660714027
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 1.6,
+        "fraction_power_below_20_hz": 0.9943385176468529
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 1.7666666666666666,
+        "fraction_power_below_20_hz": 0.9972205148163409
+      }
+    }
+  },
+  {
+    "file": "raw/idle/session_01.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 3.9660056657223794,
+        "fraction_power_below_20_hz": 0.7662375438651324
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 12.314614230961507,
+        "fraction_power_below_20_hz": 0.6895989950288953
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 11.964672554574237,
+        "fraction_power_below_20_hz": 0.9769870978108773
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 12.231294784202634,
+        "fraction_power_below_20_hz": 0.7987184088734528
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 19.280119980003334,
+        "fraction_power_below_20_hz": 0.5072105661692774
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 19.280119980003334,
+        "fraction_power_below_20_hz": 0.4987843287167553
+      }
+    }
+  },
+  {
+    "file": "raw/idle/session_02.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 4.665889018496917,
+        "fraction_power_below_20_hz": 0.626762132668521
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 12.097983669388436,
+        "fraction_power_below_20_hz": 0.531950958196214
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 11.781369771704716,
+        "fraction_power_below_20_hz": 0.5745643039299979
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 15.730711548075321,
+        "fraction_power_below_20_hz": 0.7373154668045244
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 16.747208798533578,
+        "fraction_power_below_20_hz": 0.7543349686489006
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 16.747208798533578,
+        "fraction_power_below_20_hz": 0.7508438776604344
+      }
+    }
+  },
+  {
+    "file": "raw/idle/session_03.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 14.569094849141521,
+        "fraction_power_below_20_hz": 0.9733238855190177
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 14.569094849141521,
+        "fraction_power_below_20_hz": 0.719662539916919
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 7.017836306051008,
+        "fraction_power_below_20_hz": 0.9112524551803101
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 14.569094849141521,
+        "fraction_power_below_20_hz": 0.8865620697473687
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 14.569094849141521,
+        "fraction_power_below_20_hz": 0.9648437560801287
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 14.569094849141521,
+        "fraction_power_below_20_hz": 0.7931319122721472
+      }
+    }
+  },
+  {
+    "file": "raw/shake/session_01.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 2.1,
+        "fraction_power_below_20_hz": 0.9982705188419139
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 0.8333333333333334,
+        "fraction_power_below_20_hz": 0.9997096499743185
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 1.65,
+        "fraction_power_below_20_hz": 0.9958731879576613
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 1.2833333333333332,
+        "fraction_power_below_20_hz": 0.9998722862234494
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 0.8166666666666667,
+        "fraction_power_below_20_hz": 0.9988527859214597
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 1.2833333333333332,
+        "fraction_power_below_20_hz": 0.9998884814153018
+      }
+    }
+  },
+  {
+    "file": "raw/shake/session_02.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 1.6669444907484579,
+        "fraction_power_below_20_hz": 0.9980526648201992
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 1.6836139356559425,
+        "fraction_power_below_20_hz": 0.9995269283537758
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 1.6836139356559425,
+        "fraction_power_below_20_hz": 0.9957797576612113
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 1.6836139356559425,
+        "fraction_power_below_20_hz": 0.9997309529861608
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 1.1001833638939822,
+        "fraction_power_below_20_hz": 0.9984208801702098
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 1.6836139356559425,
+        "fraction_power_below_20_hz": 0.9998368456710405
+      }
+    }
+  },
+  {
+    "file": "raw/shake/session_03.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 2.55,
+        "fraction_power_below_20_hz": 0.998169769976204
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 2.15,
+        "fraction_power_below_20_hz": 0.9995670646232069
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 2.15,
+        "fraction_power_below_20_hz": 0.9971917661807211
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 1.8666666666666667,
+        "fraction_power_below_20_hz": 0.9995327656913398
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 1.3166666666666667,
+        "fraction_power_below_20_hz": 0.997158473605982
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 1.8499999999999999,
+        "fraction_power_below_20_hz": 0.9995506425354607
+      }
+    }
+  },
+  {
+    "file": "raw/updown/session_01.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 3.08281953007832,
+        "fraction_power_below_20_hz": 0.9946061185304818
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 2.7162139643392766,
+        "fraction_power_below_20_hz": 0.9993182223310125
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 2.7162139643392766,
+        "fraction_power_below_20_hz": 0.9982775399016285
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 2.4162639560073322,
+        "fraction_power_below_20_hz": 0.9924128815068983
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 2.4995834027662056,
+        "fraction_power_below_20_hz": 0.9527359185628242
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 2.7162139643392766,
+        "fraction_power_below_20_hz": 0.99852940110877
+      }
+    }
+  },
+  {
+    "file": "raw/updown/session_02.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 3.5,
+        "fraction_power_below_20_hz": 0.9935656916518013
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 3.5,
+        "fraction_power_below_20_hz": 0.9986928537516288
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 3.5,
+        "fraction_power_below_20_hz": 0.9964870541721459
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 3.5,
+        "fraction_power_below_20_hz": 0.9926533226830967
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 3.5,
+        "fraction_power_below_20_hz": 0.9660468563309635
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 3.4,
+        "fraction_power_below_20_hz": 0.9960120786270532
+      }
+    }
+  },
+  {
+    "file": "raw/updown/session_03.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 2.2162972837860355,
+        "fraction_power_below_20_hz": 0.9689018487022872
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 2.316280619896684,
+        "fraction_power_below_20_hz": 0.9877929782671763
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 2.316280619896684,
+        "fraction_power_below_20_hz": 0.9529213423971017
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 2.316280619896684,
+        "fraction_power_below_20_hz": 0.9957049532896417
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 2.316280619896684,
+        "fraction_power_below_20_hz": 0.9662979044014418
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 1.9996667222129645,
+        "fraction_power_below_20_hz": 0.9599315196183704
+      }
+    }
+  },
+  {
+    "file": "raw/wave/session_01.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 1.4166666666666667,
+        "fraction_power_below_20_hz": 0.9961843367894286
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 1.4833333333333334,
+        "fraction_power_below_20_hz": 0.9996662072805557
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 1.4333333333333333,
+        "fraction_power_below_20_hz": 0.9951085420116972
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 1.4333333333333333,
+        "fraction_power_below_20_hz": 0.9987365223602378
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 1.4333333333333333,
+        "fraction_power_below_20_hz": 0.9960987901702119
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 1.4333333333333333,
+        "fraction_power_below_20_hz": 0.9997592785622741
+      }
+    }
+  },
+  {
+    "file": "raw/wave/session_02.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 1.9333333333333333,
+        "fraction_power_below_20_hz": 0.9963894988451413
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 1.9333333333333333,
+        "fraction_power_below_20_hz": 0.9996227219221265
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 1.9333333333333333,
+        "fraction_power_below_20_hz": 0.9924951405701273
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 1.95,
+        "fraction_power_below_20_hz": 0.9975719303239141
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 1.9333333333333333,
+        "fraction_power_below_20_hz": 0.9946831095002358
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 1.9333333333333333,
+        "fraction_power_below_20_hz": 0.9996872678378387
+      }
+    }
+  },
+  {
+    "file": "raw/wave/session_03.csv",
+    "method": "Hann periodogram, subtract axis mean, one-sided PSD",
+    "axes": {
+      "ax_g": {
+        "peak_0_5_to_20_hz": 1.5164139310114981,
+        "fraction_power_below_20_hz": 0.9949839981660166
+      },
+      "ay_g": {
+        "peak_0_5_to_20_hz": 1.5164139310114981,
+        "fraction_power_below_20_hz": 0.9995993317264767
+      },
+      "az_g": {
+        "peak_0_5_to_20_hz": 1.5164139310114981,
+        "fraction_power_below_20_hz": 0.989361161570635
+      },
+      "gx_dps": {
+        "peak_0_5_to_20_hz": 1.5164139310114981,
+        "fraction_power_below_20_hz": 0.9997653205861948
+      },
+      "gy_dps": {
+        "peak_0_5_to_20_hz": 1.5164139310114981,
+        "fraction_power_below_20_hz": 0.9964703353652387
+      },
+      "gz_dps": {
+        "peak_0_5_to_20_hz": 1.5164139310114981,
+        "fraction_power_below_20_hz": 0.9998152866771199
+      }
+    }
+  }
+]

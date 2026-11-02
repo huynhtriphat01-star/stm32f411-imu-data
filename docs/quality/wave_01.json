@@ -1,0 +1,31 @@
+{
+  "file": "raw/wave/session_01.csv",
+  "samples": 6000,
+  "label": "wave",
+  "session": "01",
+  "duration_s": 59.99,
+  "rate_hz": 100.0,
+  "sequence_ambiguous": false,
+  "lost_frames": 0,
+  "loss_percent": 0.0,
+  "jitter_p99_us": 0.0,
+  "acceleration_norm_mean_g": 1.0375086207408755,
+  "gyro_mean_dps": [
+    -0.9323664122137402,
+    1.0752569974554718,
+    -1.1288804071246807
+  ],
+  "gyro_sd_dps": [
+    10.45382324464164,
+    11.491747414186738,
+    16.235097747828263
+  ],
+  "saturated_samples": 0,
+  "crc_errors": null,
+  "subject": null,
+  "position": null,
+  "metadata_provenance": "Retrospective audit; capture-time metadata unavailable",
+  "sha256": "34d1a7e5b4c0a6dd48b2cbf74f51721412d8729533d7f5b16bfd185c7507143c",
+  "timing_sequence_pass": true,
+  "idle_gravity_pass": null
+}

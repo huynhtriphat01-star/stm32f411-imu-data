@@ -1,0 +1,31 @@
+{
+  "file": "raw/updown/session_01.csv",
+  "samples": 6001,
+  "label": "updown",
+  "session": "01",
+  "duration_s": 60.0,
+  "rate_hz": 100.0,
+  "sequence_ambiguous": false,
+  "lost_frames": 0,
+  "loss_percent": 0.0,
+  "jitter_p99_us": 0.0,
+  "acceleration_norm_mean_g": 1.0328571925260759,
+  "gyro_mean_dps": [
+    -1.0736403983559968,
+    1.1417231988052847,
+    -0.7367805111361853
+  ],
+  "gyro_sd_dps": [
+    5.729074886715753,
+    5.957182432558016,
+    7.44323021094711
+  ],
+  "saturated_samples": 0,
+  "crc_errors": null,
+  "subject": null,
+  "position": null,
+  "metadata_provenance": "Retrospective audit; capture-time metadata unavailable",
+  "sha256": "44c07dc0ee21d3365b86c861ba094621e7cd2c4e1e840031a98cbfef5994eb8d",
+  "timing_sequence_pass": true,
+  "idle_gravity_pass": null
+}

@@ -1,0 +1,22 @@
+# Keil generated output and per-user UI state
+/MDK-ARM/F411_IMU_LAB1/
+*.uvguix.*
+*.o
+*.d
+*.axf
+*.lnp
+*.dep
+*.iex
+# Python temporary files
+__pycache__/
+*.py[cod]
+.venv/
+# Documentation bundles are distributed outside the source tree
+/LAB1_GitHub_*_Final.zip
+
+# Additional generated build files
+*.hex
+*.map
+*.crf
+*.htm
+*.lst

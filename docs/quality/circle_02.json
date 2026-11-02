@@ -1,0 +1,31 @@
+{
+  "file": "raw/circle/session_02.csv",
+  "samples": 6000,
+  "label": "circle",
+  "session": "02",
+  "duration_s": 59.99,
+  "rate_hz": 100.0,
+  "sequence_ambiguous": false,
+  "lost_frames": 0,
+  "loss_percent": 0.0,
+  "jitter_p99_us": 0.0,
+  "acceleration_norm_mean_g": 1.018110474241859,
+  "gyro_mean_dps": [
+    -0.8120254452926213,
+    1.8870152671755704,
+    -0.4052544529262077
+  ],
+  "gyro_sd_dps": [
+    21.124840077917405,
+    26.59773771867874,
+    16.564307658882232
+  ],
+  "saturated_samples": 0,
+  "crc_errors": null,
+  "subject": null,
+  "position": null,
+  "metadata_provenance": "Retrospective audit; capture-time metadata unavailable",
+  "sha256": "87f8eab77d24d627c899f4443919a79477acaa9b1f588f507af98f5b94b1329a",
+  "timing_sequence_pass": true,
+  "idle_gravity_pass": null
+}
